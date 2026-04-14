@@ -529,6 +529,7 @@ margin-top: 100px; */
 .content5,.container1{
     display: flex;
     justify-content: center;
+    align-items: center;
     margin-top: 25px;
 }
 
