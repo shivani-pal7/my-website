@@ -501,7 +501,7 @@ height: 150px;
     padding-bottom: 200px;
 }
 .container1{
-width: 100%;
+width: 90%;
 display:flex;
 gap:30px;
 justify-content:center;
@@ -510,6 +510,28 @@ align-items: center;
 margin-top: 100px; */
 
 }
+.content5{
+    color: #1b263b;
+    font-size: larger;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+.content5 h1{
+    color: #000000;
+    font-size: xxx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.content5,.container1{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
 
 .box{
 width:300px;
